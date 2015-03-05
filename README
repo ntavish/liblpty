@@ -1,0 +1,16 @@
+Liblpty
+=======
+C bindings for the Lua library lpty http://www.tset.de/lpty/ (made for Version 1.0.1) by Gunnar Zötl <gz@tset.de>
+
+See https://github.com/ntavish/lualpty for Openwrt package for same.
+
+
+Usage
+=====
+
+See [examples/](examples/) directory.
+
+Todo
+====
+
+Update lpty to V1.1
